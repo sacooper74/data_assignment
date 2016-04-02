@@ -1,4 +1,4 @@
-### Getting and Cleaning Data: Course Assignment
+# Getting and Cleaning Data: Course Assignment
 
 One of the most exciting areas in all of data science right now is wearable computing - see for example this article . Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
 
@@ -18,15 +18,15 @@ The R script called run_analysis.R that does the following.
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-# Prerequisites
+## Prerequisites
 
 A. The data must be extracted into your working directory.  
 B. The script will run in your working directory.
 
-# Output
+## Output
 
 A. The output text file "tidy.csv" contains the mean of key variables, grouped by activity and subject.
 
-# Thanks
+## Thanks
 
 Thanks to eriky for sample script: https://github.com/eriky/coursera-getting-and-cleaning-data/blob/master/run_analysis.R
