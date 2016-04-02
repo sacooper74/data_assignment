@@ -11,6 +11,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 ## Data Files Required
 
 The following files are required in the working directory:
+
 1. activity_labels
 2. features
 3. subject_test
